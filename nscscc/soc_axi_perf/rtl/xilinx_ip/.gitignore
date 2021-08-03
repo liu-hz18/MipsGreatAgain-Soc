@@ -1,0 +1,11 @@
+/axi_clock_converter/*
+/axi_crossbar_1x2/*
+/axi_ram/*
+/clk_pll/*
+
+!.gitignore
+!/axi_clock_converter/*.xci
+!/axi_crossbar_1x2/*.xci
+!/axi_ram/*.xci
+!/clk_pll/*.xci
+

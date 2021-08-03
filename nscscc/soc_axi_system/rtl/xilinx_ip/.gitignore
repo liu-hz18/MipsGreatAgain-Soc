@@ -1,0 +1,11 @@
+/axi_clock_converter/*
+/mig_axi_32/*
+/clk_wiz_0/*
+/clk_pll/*
+
+!.gitignore
+!/axi_clock_converter/*.xci
+!/mig_axi_32/*.xci
+!/clk_wiz_0/*.xci
+!/clk_pll/*.xci
+

@@ -1,0 +1,3 @@
+[submodule "nscscc/soft/supervisor-mips32"]
+	path = nscscc/soft/supervisor-mips32
+	url = https://github.com/z4yx/supervisor-mips32/
