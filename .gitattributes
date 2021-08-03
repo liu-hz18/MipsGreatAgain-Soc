@@ -1,3 +1,4 @@
 nscscc/* linguist-vendored
 src/ip/* linguist-vendored
 **/ip_repo/* linguist-vendored
+**/xilinx_ip/* linguist-vendored
